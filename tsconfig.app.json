@@ -1,0 +1,17 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    "lib/**/*.ts",
+    "db/**/*.ts",
+    "cloudflare-env.d.ts",
+    "next-env.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "examples",
+    "build",
+    "vite.config.ts"
+  ]
+}
