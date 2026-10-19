@@ -6,6 +6,14 @@ Atlante ayuda a una asesoría a detectar oportunidades públicas para su cartera
 **Memoria y guion de prueba:** [docs/00-LEEME.md](docs/00-LEEME.md)  
 **Datos ficticios para importar:** [public/50-clientes-ficticios.csv](public/50-clientes-ficticios.csv)
 
+## Entrega del hackathon
+
+- [Carpeta de Google Drive](https://drive.google.com/drive/folders/1VAkXOuo_T0P2_LrwCDl4nFm7fwK2MFUn)
+- [Documentación técnica](https://docs.google.com/document/d/1CfwmgYbhBsql8v9iSAZ7eG_AAtOYmKxuuUrQghm0fUg/edit)
+- [Historial de prompts](https://docs.google.com/document/d/1fpk5bH0Gf9fg7dsd1DAWq70C3N3Jo-zdIp6Akme9GqQ/edit)
+
+El vídeo de demostración lo prepara el autor y se añadirá a la carpeta de entrega.
+
 ## Qué se puede probar
 
 1. Entrar con una cuenta de ChatGPT y crear una asesoría propia.
